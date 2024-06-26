@@ -1,15 +1,12 @@
 {
   "cardDetails": [
     {
-      "name": "Your Name",
-      "profession": "Your Profession",
-      "quote": "\"Your favourite quote\"</br> - Said By Me",
-      "twitter": "https://twitter.com",
-      "dribbble": "https://dribbble.com",
-      "behance": "https://behance.com",
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com",
-      "email": "mailto:youremail@gmail.com"
+      "name": "Keolebogile Segoneco",
+      "profession": "Web Developer",
+      "quote": "\"What you resist always persist"</br> - Said By Me",
+      "github": "https://github.com/oksanakaur",
+      "linkedin": "https://www.linkedin.com/in/keolebogile-segoneco-6b0999262 ",
+      "email": "segonecokeolebogile@gmail.com"
     },
     {
       "name": "Aseru Kevin Ziyada",
